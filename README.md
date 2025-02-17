@@ -99,5 +99,5 @@ vulnview python3 vulnview.py -i 22 -s 34
 
 ### Acknowledgments
 
-Thanks to the Nessus API Documentation for providing the necessary endpoints.
-Special thanks to the Rich Library for enabling beautiful console output.
+- Thanks to the Nessus API Documentation for providing the necessary endpoints.
+- Special thanks to the Rich Library for enabling beautiful console output.
